@@ -77,7 +77,7 @@ const SocialIcons = (props) => {
 			<a
 				style={{ textDecoration: 'none', color: 'black', height: '1.5rem' }}
 				href={myPDF}
-				download={'hello.pdf'}
+				download={"Mahesh's Resume.pdf"}
 			>
 				<img
 					style={{ height: '1.5rem' }}
