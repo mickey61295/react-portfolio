@@ -1,5 +1,5 @@
 import { Github, LinkedIn } from '../components/AllSvgs'
-import myPDF from '../assets/myPDF.pdf'
+import myPDF from '../assets/Maheshbabu_Jeyaraj_Resume.pdf'
 import styled from 'styled-components'
 import { motion } from 'framer-motion'
 
